@@ -1,2 +1,1 @@
-for i in range(4):
-    print("Hello world")
+print('''Hello world\n'''*4)
